@@ -8,7 +8,7 @@
 
   <br>
 
-  ![anime gif](https://github.com/Lyycoris/Lyycoris/blob/main/oshi-no-ko-b-komachi.gif)
+  <img src="https://tenor.com/id/view/yuzuko-yuyushiki-cry-anime-yuzuko-nonohara-gif-86009586945823268">
 
   <br>
 
