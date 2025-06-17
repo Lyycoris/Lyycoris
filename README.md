@@ -8,7 +8,7 @@
 
   <br>
 
-  ![anime gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
+  ![anime gif](https://github.com/lyycoris/lyycoris/blob/output/github-contribution-grid-snake-dark.svg)
 
   <br>
 
